@@ -1,6 +1,5 @@
 # MentalWellness
 
-```markdown
 # Project Overview
 
 This repository contains a comprehensive project setup including an API for classification, a Language Model API (LLM-API), and a frontend built with React and Vite. The project structure is as follows:
@@ -88,4 +87,3 @@ Watch the demo video [here](https://drive.google.com/file/d/1maYKl6GAC15_8t4Beow
 ## Custom Finetuned LLM
 
 Explore the custom finetuned LLM using the QLoRA technique on [Hugging Face](https://huggingface.co/Jjateen/llama-2-7b-mental-chat).
-```
