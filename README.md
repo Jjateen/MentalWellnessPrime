@@ -30,7 +30,7 @@ requirements.txt
 
 1. Clone the repository:
    ```sh
-   git clone [<repository-url>](https://github.com/Jjateen/MentalWellnessPrime)
+   git clone https://github.com/Jjateen/MentalWellnessPrime
    cd ClassificationAPI
    ```
 
